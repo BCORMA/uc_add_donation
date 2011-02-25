@@ -1,5 +1,4 @@
 <?php
-// $Id$
 
 define('DONATION_AMOUNTS_STRING', implode("\n", array(0, 5, 10, 25, 50, 100, 500, 1000)));
 define('DONATION_AMOUNTS_HELP', 'Enter the amount of money you would like to donate along with this order.');

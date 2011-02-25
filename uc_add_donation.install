@@ -1,5 +1,4 @@
 <?php
-// $Id$
 function uc_add_donation_schema() { 
   $schema = array();
   $schema['uc_add_donation'] = array(

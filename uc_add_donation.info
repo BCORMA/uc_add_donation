@@ -1,4 +1,3 @@
-; $Id$
 name = Add Donation
 description = Allows anyone who purchases an item to add a donation to their checkout.
 dependencies[] = uc_payment
