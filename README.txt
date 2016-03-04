@@ -5,7 +5,7 @@ websites who offer a type of service that would entice anyone to "donate to the 
 that site.   This also applies for sites that do not charge for certain products in hopes to generate revenue from hinting to their
 users to donate to their cause.
 
-This module was developed by http://www.alethiadesign.com.
+This module was originally developed by http://www.alethiadesign.com.  Version 8.x by GeoVision Environmental
 
 INSTALLATION:
 
